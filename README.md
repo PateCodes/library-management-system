@@ -1,2 +1,2 @@
-# county-library-management-system
-county library management system
+# library-management-system
+ library management system
