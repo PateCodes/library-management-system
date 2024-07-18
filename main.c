@@ -33,7 +33,7 @@ int main()
 
  int main()
  {
-    printf("COUNTY  LIBRARY SYSTEM!\n");
+    printf("LIBRARY SYSTEM!\n");
     printf("WELCOMEPATRICK!\n");
     execute action(menu());
 
