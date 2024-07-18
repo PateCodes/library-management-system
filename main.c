@@ -9,7 +9,7 @@ int main()
     printf("your action!\n");
     scanf("%d,&action");
     if(action< 1||action >4) {
-            ptintf("invalid action.try again!!");
+            printf("invalid action.try again!!");
 
     }
     return action;
